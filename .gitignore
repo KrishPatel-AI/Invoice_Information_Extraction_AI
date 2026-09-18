@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Local data
+data/
+
+# Trained models / checkpoints
+invoice_donut_final/
+model_checkpoint/
+
+# Large model files
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# ZIP / backup files
+*.zip
+
+# Local documentation / guides
+STEP_BY_STEP_GUIDE.md
+
+# Secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
