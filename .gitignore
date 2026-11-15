@@ -24,6 +24,9 @@ model_checkpoint/
 
 # ZIP / backup files
 *.zip
+invoice_donut_final.zip
+invoice_project.zip
+
 
 # Local documentation / guides
 STEP_BY_STEP_GUIDE.md
@@ -40,3 +43,6 @@ STEP_BY_STEP_GUIDE.md
 # OS files
 .DS_Store
 Thumbs.db
+
+invoice_donut_final.zip
+invoice_project.zip
